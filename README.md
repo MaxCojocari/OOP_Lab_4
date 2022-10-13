@@ -14,7 +14,7 @@ In order to run this project, complete the following steps:
 
 ## Scenarios implemented
 
-Actors in this use cases are Alice, Bob and Ciprian.
+Actors in these use cases are Alice, Bob and Ciprian.
 
 1. SIMULATION 1
 ```
