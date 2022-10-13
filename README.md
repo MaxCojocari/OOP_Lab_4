@@ -1,4 +1,4 @@
-# Blockchain simulation. Part 2: Polymorphism
+# Blockchain simulation. Part 3: Polymorphism
 
 ![image](https://user-images.githubusercontent.com/92053176/192138851-6466d959-734a-4a0c-ab41-3c604095add6.png)
 
